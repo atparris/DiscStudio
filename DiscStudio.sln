@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscStudio", "DiscStudio\DiscStudio.csproj", "{35904DA8-9418-48CD-9ED0-E798DF8D33C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35904DA8-9418-48CD-9ED0-E798DF8D33C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35904DA8-9418-48CD-9ED0-E798DF8D33C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35904DA8-9418-48CD-9ED0-E798DF8D33C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35904DA8-9418-48CD-9ED0-E798DF8D33C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48B370FE-EEE7-49AA-ACAC-0998BE12447D}
+	EndGlobalSection
+EndGlobal
